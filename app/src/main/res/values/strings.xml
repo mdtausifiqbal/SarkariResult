@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sarkari Result</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="website">www.sarkariresult.com</string>
+	<string name="drawer_open">Drawer is opened</string>
+	<string name="drawer_close">Drawer is closed</string>
+	
+	<string name="home_url">https://www.sarkariresult.com</string>
+	<string name="syllabus_url">https://www.sarkariresult.com/syllabus.php</string>
+	<string name="answer_keys_url">https://www.sarkariresult.com/answerkey.php</string>
+	<string name="latest_jobs_url">https://www.sarkariresult.com/latestjob.php</string>
+	<string name="admit_card_url">https://www.sarkariresult.com/admitcard.php</string>
+	<string name="results_url">https://www.sarkariresult.com/result.php</string>
+	<string name="upsssc_url">https://www.sarkariresult.com/upsssc.php</string>
+	<string name="ibps_url">https://www.sarkariresult.com/ibpsall.php</string>
+	<string name="ssc_url">https://www.sarkariresult.com/sscall.php</string>
+	<string name="upsc_url">https://www.sarkariresult.com/upscall.php</string>
+	<string name="railway_url">https://www.sarkariresult.com/railwayall.php</string>
+	<string name="uppsc_url">https://www.sarkariresult.com/uppscall.php</string>
+	<string name="tet_url">https://www.sarkariresult.com/tetall.php</string>
+	<string name="all_board_exam_url">https://www.sarkariresult.com/boardall.php</string>
+	<string name="police_vacancy_url">https://www.sarkariresult.com/policeall.php</string>
+	
+	<string name="url_key">url</string>
+	<string name="position_key">position</string>
+	<string name="data_key">data</string>
+	
+	<string name="home_title">Home</string>
+	<string name="syllabus_title">Syllabus</string>
+	<string name="answer_keys_title">Answer Keys</string>
+	<string name="latest_jobs_title">Latest Jobs</string>
+	<string name="admit_card_title">Admit Card</string>
+	<string name="results_title">Results</string>
+	<string name="upsssc_title">UPSSSC</string>
+	<string name="ibps_title">IBPS</string>
+	<string name="ssc_title">SSC</string>
+	<string name="upsc_title">UPSC</string>
+	<string name="railway_title">Railway</string>
+	<string name="uppsc_title">UPPSC</string>
+	<string name="tet_title">TET</string>
+	<string name="all_board_exam_title">All Board Exam</string>
+	<string name="police_vacancy_title">Police Vacancy</string>
+</resources>

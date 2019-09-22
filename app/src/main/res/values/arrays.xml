@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="all_urls">
+		<item>@string/home_url</item>
+		<item>@string/syllabus_url</item>
+		<item>@string/answer_keys_url</item>
+		<item>@string/latest_jobs_url</item>
+		<item>@string/admit_card_url</item>
+		<item>@string/results_url</item>
+		<item>@string/upsssc_url</item>
+		<item>@string/ibps_url</item>
+		<item>@string/ssc_url</item>
+		<item>@string/upsc_url</item>
+		<item>@string/railway_url</item>
+		<item>@string/uppsc_url</item>
+		<item>@string/tet_url</item>
+		<item>@string/all_board_exam_url</item>
+		<item>@string/police_vacancy_url</item>
+	</string-array>
+	<string-array name="top_urls">
+		<item>@string/home_url</item>
+		<item>@string/syllabus_url</item>
+		<item>@string/answer_keys_url</item>
+		<item>@string/latest_jobs_url</item>
+		<item>@string/admit_card_url</item>
+		<item>@string/results_url</item>
+	</string-array>
+	<string-array name="all_titles">
+		<item>@string/home_title</item>
+		<item>@string/syllabus_title</item>
+		<item>@string/answer_keys_title</item>
+		<item>@string/latest_jobs_title</item>
+		<item>@string/admit_card_title</item>
+		<item>@string/results_title</item>
+		<item>@string/upsssc_title</item>
+		<item>@string/ibps_title</item>
+		<item>@string/ssc_title</item>
+		<item>@string/upsc_title</item>
+		<item>@string/railway_title</item>
+		<item>@string/uppsc_title</item>
+		<item>@string/tet_title</item>
+		<item>@string/all_board_exam_title</item>
+		<item>@string/police_vacancy_title</item>
+	</string-array>
+	<string-array name="top_titles">
+		<item>@string/home_title</item>
+		<item>@string/syllabus_title</item>
+		<item>@string/answer_keys_title</item>
+		<item>@string/latest_jobs_title</item>
+		<item>@string/admit_card_title</item>
+		<item>@string/results_title</item>
+	</string-array>
+</resources>

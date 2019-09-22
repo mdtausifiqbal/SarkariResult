@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="home_id"/>
+	<item type="id" name="syllabus_id"/>
+	<item type="id" name="answer_keys_id"/>
+	<item type="id" name="latest_jobs_id"/>
+	<item type="id" name="admit_card_id"/>
+	<item type="id" name="results_id"/>
+	<item type="id" name="upsssc_id"/>
+	<item type="id" name="ibps_id"/>
+	<item type="id" name="ssc_id"/>
+	<item type="id" name="upsc_id"/>
+	<item type="id" name="railway_id"/>
+	<item type="id" name="uppsc_id"/>
+	<item type="id" name="tet_id"/>
+	<item type="id" name="all_board_exam_id"/>
+	<item type="id" name="police_vacancy_id"/>
+</resources>

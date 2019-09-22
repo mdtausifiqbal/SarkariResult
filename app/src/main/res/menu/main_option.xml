@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/website"
+        android:title="Open Official Website"/>
+	<item
+		android:id="@+id/refreshContent"
+		android:title="Refresh"/>
+    <item
+		android:id="@+id/feedback"
+		android:title="Send Feedback"/>
+	<item
+		android:id="@+id/aboutus"
+		android:title="About Us"/>
+</menu>
