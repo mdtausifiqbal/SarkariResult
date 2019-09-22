@@ -13,7 +13,7 @@ public class Utils
 	public static final String HOME_URL = "https://www.sarkariresult.com";
 	public static final String APP_ROOT = "/data/data/com.sarkariresult.android/files";
 	public static final String INTERNAL_PATH = "/sdcard/Sarkari Result";
-	public static final String DATA_PATH = INTERNAL_PATH;
+	public static final String DATA_PATH = APP_ROOT;
 	public static final String HOME_FILE_NAME = "Home.php";
 	private static String TAG = "Utils";
 	
